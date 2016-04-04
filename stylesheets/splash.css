@@ -1,0 +1,27 @@
+/*
+splash.css
+Dan Cannan
+*/
+
+body {
+	width: 				1000px;
+	margin:				auto;
+	font-weight:		bold;
+	font-family:		Calibri, Helvetica, Verdana, Arial, sans-sarif;
+	background-color: 	#000;
+}
+
+#main {
+	margin-top:			425px;
+	margin-left:		275px;
+}
+
+.enter {
+	font-size:			150%;
+	margin-top:			auto;
+	margin-left:		195px;
+}
+
+a:link 		{ color: #fff; }
+a:hover		{ color: #32cd32 !important; }
+a:visited	{ color: #bbbbbb; }
